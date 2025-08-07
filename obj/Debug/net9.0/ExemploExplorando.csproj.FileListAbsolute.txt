@@ -12,3 +12,4 @@ C:\Users\jefer\OneDrive\Documentos\estudo_dev\Dio_me\wex_end_to_end_engineering\
 C:\Users\jefer\OneDrive\Documentos\estudo_dev\Dio_me\wex_end_to_end_engineering\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
 C:\Users\jefer\OneDrive\Documentos\estudo_dev\Dio_me\wex_end_to_end_engineering\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\jefer\OneDrive\Documentos\estudo_dev\Dio_me\wex_end_to_end_engineering\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+C:\Users\jefer\OneDrive\Documentos\estudo_dev\Dio_me\wex_end_to_end_engineering\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.sourcelink.json
