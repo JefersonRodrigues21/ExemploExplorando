@@ -1,7 +1,7 @@
 ﻿using ExemploExplorando.Models;
 
-Pessoa p1 = new Pessoa("Jeferson", "Rodrigues");
-Pessoa p2 = new Pessoa("Miguel", "Rodrigues");
+Pessoa p1 = new Pessoa(nome: "Jeferson", sobrenome: "Rodrigues");
+Pessoa p2 = new Pessoa(nome: "Miguel", sobrenome: "Rodrigues");
 
 Curso cursoDeIngles = new Curso();
 cursoDeIngles.Nome = "Inglês";
